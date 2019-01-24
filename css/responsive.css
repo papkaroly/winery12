@@ -1,0 +1,645 @@
+/*===========================================================================*/
+							/*1366px CSS*/
+/*===========================================================================*/
+@media (max-width: 1366px) {
+#banner .caption {
+	top: 150px;
+}
+}
+
+
+
+/*===========================================================================*/
+							/*1280px CSS*/
+/*===========================================================================*/
+@media (max-width: 1280px) {
+}
+
+
+
+/*===========================================================================*/
+							/*767px CSS*/
+/*===========================================================================*/
+@media (max-width: 767px) {
+.post-meta ul {
+	margin: 0;
+}
+.tags, .cp-categories {
+	margin: 0 0 10px 0;
+}
+.related-images .frame {
+	width: 30.8%;
+	margin-right: 15px;
+}
+.cp-comments li .thumb {
+	margin: 20px 20px 20px 0;
+}
+.cp-comments li .text {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.post-time ul li a.comment-reply-link {
+	margin: 3px 0 0 0;
+}
+.children {
+	padding: 0;
+}
+.cp-comments li .children li {
+	padding: 0;
+}
+.comment-reply-title small a {
+	margin: 0 0 10px 30px;
+}
+.comingsoon .holder {
+	width: 100%;
+}
+.comingsoon h1 {
+	font-size: 60px !important;
+}
+.comingsoon p {
+	margin: 0 0 30px 0;
+}
+.comingsoon .countdown-box .countdown_section {
+	width: 130px;
+}
+.comingsoon .countdown-box .countdown_amount {
+	font-size: 60px;
+}
+.comingsoon .countdown-box .countdown_section:before {
+	left: 140px;
+}
+.comingsoon .countdown-box {
+	margin: 0 0 40px 0;
+}
+.map-row .map_canvas {
+	height: 300px;
+}
+.contact-row {
+	padding: 0;
+}
+.contact-box {
+	margin-bottom: 30px;
+}
+#give-donation-level-radio-list li {
+	float: left;
+	margin: 0 0 20px 14px;
+}
+#give-donation-level-radio-list li:first-child {
+	margin: 0;
+}
+#give-donation-level-radio-list label {
+	width: 90px;
+	height: 90px;
+	font-size: 22px;
+	line-height: 90px;
+}
+#give-first-name-wrap, #give-last-name-wrap {
+	width: 100%;
+	margin: 0;
+}
+#give-email-wrap {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.donation-amounts li, .error-section .holder {
+	width: 100%;
+}
+.header-social {
+	width: 100%;
+	margin: 10px 0;
+}
+.navigation-row {
+	width: 100%;
+	margin: 0;
+}
+.navbar-inverse .navbar-toggle {
+	margin: 0;
+	width: 100%;
+}
+.navbar-toggle .icon-bar {
+	margin: 0 auto;
+}
+#header .sidebar-box {
+	margin: 25px 0;
+	width: 100%;
+}
+#nav li {
+	float: none;
+	display: block;
+}
+#nav li ul, #nav li ul li > ul {
+	position: static;
+	width: 100%;
+}
+#banner .caption {
+	top: 10px;
+}
+#banner .caption .inner-box {
+	width: 100%;
+}
+#banner .caption .inner-box h1 {
+	font-size: 32px;
+}
+#banner .owl-nav {
+	display: none;
+}
+#banner {
+	cursor: move;
+}
+.welcome-section .text-box, .welcome-section .thumb {
+	margin-bottom: 30px;
+}
+.parallax-section .holder {
+	width: 100%;
+}
+.parallax-section {
+	padding: 60px 0;
+}
+.inner-box {
+	width: 100%;
+}
+.footer-box {
+	margin-bottom: 25px;
+}
+.footer-section-1 {
+	padding: 50px 0 20px 0;
+}
+.footer-section-3 strong.copyright {
+	line-height: 18px;
+}
+#inner-banner{
+	padding:50px 0;
+}
+#bx-pager{
+	margin-bottom:20px;
+}
+.product-detail .product-box{
+	width:50%;
+	margin-bottom:20px;
+}
+}
+
+
+/*===========================================================================*/
+							/*480px CSS*/
+/*===========================================================================*/
+@media (min-width: 320px) and (max-width: 480px) {
+.post-meta ul {
+	margin: 0;
+}
+.reviews-tab-col .thumb{
+	float:left;
+	margin:0 0 20px 0;
+}
+.reviews-tab-col .text-col{
+	float:left;
+	width:100%;
+}
+.product-detail .product-box{
+	margin-bottom:20px;
+}
+#bx-pager a{
+	width:87px;
+	height:87px;
+}
+#bx-pager{
+	margin-bottom:20px;
+}
+.sidebar-box{
+	margin:0;
+}
+#inner-banner h1{
+	font-size:38px;
+}
+#inner-banner{
+	padding:50px 0;
+}
+.header-section-1 .left-box {
+	text-align: center;
+}
+.header-section-1 .left-box span {
+	padding: 0;
+	display: inline-block;
+}
+.shop-box button, .shop-box {
+	width: 100%;
+	margin: 0;
+}
+.header-social {
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+.header-section-1 {
+	padding-bottom: 20px;
+}
+a.logo {
+	width: 100%;
+	text-align: center;
+}
+.navigation-row {
+	margin: 0;
+}
+#header .sidebar-box {
+	margin: 0;
+}
+#header .sidebar-box {
+	width: 100%;
+}
+.navigation-row {
+	width: 100%;
+}
+.navbar-inverse .navbar-toggle {
+	margin: 0 0 20px 0;
+	width: 100%;
+}
+.navbar-toggle .icon-bar {
+	margin: 0 auto;
+}
+.sidebar-box {
+	padding-bottom: 20px;
+}
+#nav li {
+	float: none;
+	display: block;
+}
+#nav li ul, #nav li ul li > ul {
+	position: static;
+	width: 100%;
+}
+#banner .caption {
+	display: none;
+}
+.welcome-section, .blog-section {
+	padding: 40px 0;
+}
+.parallax-section .holder {
+	width: 100%;
+}
+.parallax-section {
+	padding: 50px 0;
+}
+.inner-box {
+	width: 100%;
+}
+.footer-box {
+	margin-bottom: 30px;
+}
+.footer-section-1 {
+	padding: 30px 0 0 0;
+}
+.footer-section-3 strong.copyright {
+	line-height: 20px;
+}
+.welcome-section .text-box {
+	margin-bottom: 30px;
+}
+.welcome-section .thumb {
+	margin-bottom: 20px;
+}
+.sticky:before {
+	padding: 10px 18px;
+	font-size: 18px;
+	line-height: 18px;
+}
+.related-images .frame {
+	width: 100%;
+}
+body table td, body table th {
+	padding: 10px 18px;
+}
+body h2 {
+	font-size: 19px !important;
+}
+body p {
+	margin: 0 0 20px 0;
+}
+.tags, .cp-categories {
+	margin: 0 0 15px 0;
+}
+.tags strong, .cp-categories strong {
+	float: none;
+	display: block;
+	padding: 0 10px 10px 0;
+}
+iframe, embed {
+	height: 250px !important;
+}
+.post-box a.link-post {
+	font-size: 20px;
+}
+body blockquote {
+	font-size: 18px;
+	line-height: 26px;
+	padding: 20px 30px;
+}
+.share-post ul li {
+	margin-bottom: 10px;
+}
+.cp-comments li .thumb {
+	margin: 20px 20px 20px 0;
+}
+.cp-comments li .text {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.post-time ul li a.comment-reply-link {
+	margin: 3px 0 0 0;
+}
+.children {
+	padding: 0;
+}
+.cp-comments li .children li {
+	padding: 0;
+}
+.comment-reply-title small a {
+	margin: 9px 0 5px 0;
+}
+.comingsoon .holder {
+	width: 100%;
+}
+strong.coming-logo img {
+	display: block;
+	width: 100%;
+}
+.comingsoon h1 {
+	font-size: 41px !important;
+	line-height: 46px !important;
+}
+.comingsoon p {
+	margin: 0 0 40px 0;
+}
+.comingsoon strong.title {
+	font-size: 25px;
+}
+.comingsoon .countdown-box .countdown_section:before {
+	display: none;
+}
+.comingsoon .countdown-box .countdown_amount {
+	font-size: 30px;
+	line-height: 30px;
+}
+.comingsoon .countdown-box .countdown_section {
+	width: 100px;
+	margin-bottom: 20px;
+}
+.comingsoon .countdown-box {
+	margin-bottom: 20px;
+}
+.subscribe-box strong.subscribe {
+	font-size: 20px;
+	padding: 0 0 6px 0;
+}
+.subscribe-box form {
+	width: 100%;
+}
+.subscribe-box form input[type="submit"] {
+	font-size: 14px;
+	padding: 14px 8px;
+}
+.map-row .map_canvas {
+	height: 250px;
+}
+.contact-row {
+	padding: 0;
+}
+.contact-box {
+	margin-bottom: 30px;
+}
+#give-form-370 .give-donation-amount {
+	width: 100%;
+	text-align: center;
+}
+#give-form-370-wrap h2, #give-form-370 label.give-hidden {
+	text-align: center;
+}
+#give-donation-level-radio-list li {
+	margin: 0 20px 20px 20px;
+}
+#give-donation-level-radio-list {
+	margin-bottom: 0;
+}
+#give_purchase_form_wrap {
+	padding: 20px;
+}
+#give-first-name-wrap, #give-last-name-wrap {
+	width: 100%;
+	margin: 0;
+}
+#give-email-wrap {
+	width: 100%;
+}
+#give_purchase_form_wrap input[type="submit"], #give_purchase_form_wrap button[type="submit"] {
+	width: 100%;
+}
+.donation-amounts li {
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+.donation-amounts li input[type="text"] {
+	width: 85%;
+	float: none;
+	display: inline-block;
+}
+.custom-donation-amount-wrapper {
+	float: left;
+	text-align: center;
+	width: 100%;
+	padding-bottom: 20px;
+}
+#charitable_field_first_name, #charitable_field_email, #charitable_field_address_2, #charitable_field_state, #charitable_field_country, #charitable_field_last_name, #charitable_field_address, #charitable_field_city, #charitable_field_postcode, #charitable_field_phone, .donation-summary dd, .donation-summary dt, .error-section .holder {
+	width: 100%;
+}
+.error-section .holder strong.error-text {
+	font-size: 135px;
+	line-height: 140px;
+	padding: 0 0 20px 0;
+}
+.search-not-found .holder {
+	width: 100%;
+}
+.search-not-found .holder strong.error-text {
+	font-size: 56px;
+	line-height: 55px;
+}
+.testimonial-box {
+	padding: 20px 30px;
+}
+.testimonial-box em {
+	font-size: 20px;
+	line-height: 32px;
+}
+}
+
+
+
+/*===========================================================================*/
+						/*768px And 992px CSS*/
+/*===========================================================================*/
+@media (min-width: 768px) and (max-width: 992px) {
+body p {
+	margin: 0 0 20px 0;
+}
+.navigation-row {
+	margin: 0;
+}
+#nav li a {
+	font-size: 14px;
+	line-height: 14px;
+	padding: 12px;
+}
+.navigation-row {
+	float: right;
+	margin: 63px 0 0 0;
+}
+.tags strong, .cp-categories strong {
+	float: none;
+	display: block;
+	padding: 0 0 10px 0;
+}
+#nav li ul {
+	left: inherit;
+	right: 0;
+}
+#nav li ul li > ul {
+	left: inherit;
+	right: 100%;
+}
+#header .sidebar-box {
+	margin: 0px 0 25px 0;
+	width: 100%;
+}
+#banner .caption {
+	top: 20px;
+}
+.welcome-section .text-box {
+	margin-bottom: 30px;
+}
+iframe, embed {
+	height: 300px !important;
+}
+.post-box h2 {
+	font-size: 25px;
+}
+.post-meta ul li {
+	margin: 0 12px 10px 0;
+}
+.parallax-section .holder {
+	width: 100%;
+}
+.inner-box {
+	width: 100%;
+}
+.footer-box {
+	min-height: 311px;
+	margin-bottom: 40px;
+}
+.footer-section-1 {
+	padding: 50px 0 0 0;
+}
+.post-box a.link-post {
+	font-size: 22px;
+}
+body blockquote {
+	padding: 20px 30px;
+}
+.cp-comments li .thumb {
+	margin: 20px 20px 20px 0;
+}
+.cp-comments li .text {
+	float: left;
+	width: 100%;
+	margin: 0;
+}
+.post-time ul li a.comment-reply-link {
+	margin: 3px 0 0 0;
+}
+.children {
+	padding: 0;
+}
+.cp-comments li .children li {
+	padding: 0;
+}
+.comment-reply-title small a {
+	margin: 0 0 10px 30px;
+}
+.comingsoon .holder {
+	width: 100%;
+}
+.contact-row {
+	padding: 0;
+}
+#give-donation-level-radio-list li {
+	margin: 0 9px;
+}
+#give-first-name-wrap, #give-last-name-wrap, #give-email-wrap {
+	width: 30.3%;
+}
+.donation-amounts li {
+	width: 46.6%;
+}
+.testimonial-box {
+	padding: 20px 30px;
+}
+.instagram-widget ul li{
+	width:100px;
+	height:100px;
+}
+}
+
+
+
+
+/*===========================================================================*/
+							/*1199px CSS*/
+/*===========================================================================*/
+@media (min-width: 993px) and (max-width: 1199px) {
+.contact-row {
+	padding: 0;
+}
+#give-donation-level-radio-list li {
+	margin: 0 28px;
+}
+#give-first-name-wrap, #give-last-name-wrap, #give-email-wrap {
+	width: 31%;
+}
+.donation-amounts li {
+	width: 47.5%;
+}
+.product-box h5 {
+	font-size: 16px;
+}
+.navigation-row {
+	float: right;
+}
+#header .sidebar-box {
+	margin: 0 0 30px 0;
+}
+#banner .caption {
+	top: 60px;
+	left: 10px;
+}
+.welcome-section h2 {
+	font-size: 24px;
+}
+.parallax-section .holder {
+	width: 100%;
+}
+.recent-news ul li a {
+	font-size: 9px;
+}
+.recent-news ul li:first-child {
+	padding: 0 5px 0 0;
+}
+.recent-news ul li {
+	padding: 0 5px 0 0;
+}
+strong.footer-logo img {
+	width: 100%;
+}
+.instagram-widget ul li{
+	width:100px;
+	height:100px;
+}
+}

@@ -1,0 +1,15 @@
+.post-meta ul li a, .slider-frame .owl-next:before, .slider-frame .owl-prev:before, .post-box a.link-post, .share-post strong.title, .error-section .holder strong.error-text, .error-section .holder b, .error-section .holder form button[type="submit"], .gallery-section .frame a.link, .team-box .text-box h2 a, .testimonial-box .holder h2 a, .subscribe-box a.btn-home, .product-box .text-box strong.price, .header-section-1 .left-box a, .recent-news ul li a, .product-rating li a, #banner .owl-next:before, #banner .owl-prev:before, .shop-box .cart-box strong.title a, .shop-box .cart-box strong.subtotal span, .product-col .thumb .fa, .product-col .text-col .rating li a, .inner-box .btm-row strong.name, .product-col:hover .text-col h3 a, .post-box:hover .text-box h2 a{
+	color:#956a17;
+}
+.sticky:before, .slider-frame .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover, .mp3-player-box .audioplayer:not(.audioplayer-mini) .audioplayer-playpause, .mp3-player-box .audioplayer-bar-played, .mp3-player-box .audioplayer-volume-adjust div div, .mp3-player-box .audioplayer-bar-played, .pagination-col .pagination li.active a, .pagination-col .pagination > li > a:hover, .pagination-col .pagination > li > span:hover, .pagination-col .pagination > li > a:focus, .pagination-col .pagination > li > span:focus, body blockquote, .share-post ul li:hover a, .tags a:hover, .cp-categories a:hover, .countdown-box .countdown_section, .contact-box, .cart-box:hover, .like-box:hover, .checkout-box:hover, #nav li ul li a:hover, #nav li ul li:hover > a, #nav li:hover > a, #nav li.active a, .header-social ul li a, .footer-section-3, a.btn-style-1, .shop-box button, .shop-box .cart-box .cart-row a.close, .navbar-inverse .navbar-toggle{
+	background:#956a17;
+}
+/*BUTTON*/
+.post-box a.read-post, input[type="submit"], button[type="submit"], .post-time ul li a.comment-reply-link, .shop-box .cart-box a.btn-checkout{
+	background:#956a17;
+}
+/*BUTTON*/
+
+.slider-frame .owl-theme .owl-controls .owl-nav [class*="owl-"], .product-detail .bx-wrapper, #bx-pager a, .navbar-inverse .navbar-toggle{
+	border-color:#956a17;
+}
